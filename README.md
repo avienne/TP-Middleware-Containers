@@ -11,7 +11,9 @@ How to use :
 You will need maeven to compile and run our project. 
 To run our project, first move to the ioc-container folder.
 You can now compile and run tests with the command : 
+
 	mvn test 
-or only compile with : 
+or only compile with : 	
+	
 	mvn compile
 
