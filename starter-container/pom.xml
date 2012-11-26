@@ -26,6 +26,7 @@
 
     <packaging>pom</packaging>
     <modules>
+        <module>message-queue</module>
         <module>ioc-container</module>
     </modules>
 
